@@ -8,3 +8,11 @@ Copy
 Edit
 CREATE DATABASE SalesDB;
 USE SalesDB;
+
+Tables:
+
+Customers: Stores customer info.
+
+Products: Stores product details.
+
+Orders: Stores transactions (links customers & products).
