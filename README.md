@@ -3,9 +3,6 @@ This SQL script creates a basic sales database with 3 tables: Customers, Product
 
 Database Setup:
 
-sql
-Copy
-Edit
 CREATE DATABASE SalesDB;
 USE SalesDB;
 
@@ -22,6 +19,7 @@ Sample Data Included:
 3 customers
 
 3 products
+
 
 3 ordersUsage:
 Great for learning SQL basics, simulating simple sales operations, or starting a small-scale database project.
